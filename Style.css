@@ -157,7 +157,7 @@ header {
 		display: block; 
 		height: 85px;
 		margin-top: 105px; 
-		padding-left: 315px;
+		padding-left: 15px;
 		background-color: white;
 		border-top: solid; 
 		border-width: 4px;
@@ -211,4 +211,26 @@ section.banner {
 			padding-left: 0px
 }
 
+.site-footer {
+	background-color: #333;
+	color: #fff;
+	font-size: 10px;
+	font-size: 1rem;
+	font-weight: 700;
+	padding: 0px;
+	padding: 0rem;
+	text-align: center;
+}
 
+.site-footer a {
+	color: #fff;
+	text-decoration: none;	
+}
+
+.site-footer a:hover {
+	color: #f96e5b;
+}
+
+.site-footer p {
+	margin: 0;
+}
