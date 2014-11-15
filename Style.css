@@ -161,11 +161,13 @@ header {
 		background-color: white;
 		border-top: solid; 
 		border-width: 4px;
-		border-color: #ED6E4E;}
+		border-color: #ED6E4E;
+		background-color: black;}
 
-						.logo {	padding-top: 30px;
-								height: 24px;	}
-
+.logo {	padding-top: 0px;
+		width: 187px;
+		height: 85px;	
+		}
 section.banner {
 		
 		height: 465px;
@@ -205,9 +207,8 @@ section.banner {
 
 
 .formulaire {
-			background-color: white;
-			padding-left: 315px
+			background-color: black;
+			padding-left: 0px
 }
 
 
-form 
