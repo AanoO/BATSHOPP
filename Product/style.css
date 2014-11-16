@@ -1,0 +1,68 @@
+
+body{
+	background-image:url(http://www.urban-comics.com/wallpapers/batmansombrereflettome23.jpg);
+	width: 1300px;
+	height: 1200px;
+	background-color: white ;
+	background-repeat: no-repeat ;
+	background-size: contain ;
+	background-attachment: fixed;
+	margin: ;
+	background-color: white;
+	padding: ;
+	opacity: }
+
+section.info {
+height: 220px;					
+width: 510px;
+padding-left: 38px;
+margin-right: 730px;
+margin-bottom: 115px;
+margin-top: 115px;
+margin-left: 315px;
+display: inline-block;
+background-color: black;
+border-left: solid;
+border-width: 6px;
+border-color: #ED6E4E;
+opacity: ; }
+
+div{
+	height: 147px;					
+	width: 740px;
+	padding-left: 38px;
+	margin-right: 730px;
+	margin-bottom: -90px;
+	margin-top: 115px;
+	margin-left: 450px;
+	display: inline-block;
+	background-color: black;
+	border-left: solid;
+	border-width: 6px;
+	border-color: #1275ae;
+	opacity: ;
+	color: grey;
+}
+
+.img0{
+	width:210px;
+	height: 147px;
+	float:right; 
+	}
+
+.img1{
+	width:210px;
+	height: 147px;
+	float:right; 
+	}
+
+.img2{
+	width:210px;
+	height: 147px;
+	float:right; 
+	}
+.img3{
+	width:210px;
+	height: 147px;
+	float:right; 
+	}
